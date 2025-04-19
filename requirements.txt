@@ -1,0 +1,9 @@
+flask
+flask-cors
+opencv-python-headless
+ultralytics
+pytesseract
+numpy
+Pillow
+inference-sdk
+gunicorn
